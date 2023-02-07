@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid al maghfur</h1>
-<h3 align="center">I am a developer from Indonesia who is engaged in the frontend field</h3>
+<h3 align="center">I am a developer from Indonesia who is engaged in the frontend & backend field</h3>
 
 - 🌱 I’m currently learning **JavaScript and PHP**
 
